@@ -1,3 +1,6 @@
+
+![Uploading Screenshot (2).png…]()
+
 # Student Enrollment Form using JPDB
 ## Description 
 This is an HTML form for student enrollment designed for web use, with JsonPowerDB serving as the underlying database. JsonPowerDB is utilized to execute CRUD (Create, Read, Update, Delete) operations on the data.
