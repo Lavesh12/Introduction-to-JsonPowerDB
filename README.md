@@ -1,5 +1,5 @@
 
-![Uploading Screenshot (2).png…]()
+![Screenshot (2)](https://github.com/Lavesh12/Introduction-to-JsonPowerDB/assets/94188971/a3987275-10b2-4874-8a12-111d2b9abf55)
 
 # Student Enrollment Form using JPDB
 ## Description 
